@@ -1,2 +1,4 @@
 # EverythingLife
-Web app with tools for everything
+Web app with tools for everything.
+
+- Sridev
