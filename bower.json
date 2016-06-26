@@ -1,0 +1,17 @@
+{
+  "name": "EverythingLife",
+  "homepage": "https://github.com/sridevpawar/EverythingLife",
+  "authors": [
+    "Sdev <sridevpawar@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
